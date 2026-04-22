@@ -1,0 +1,73 @@
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE/Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Dependencies
+__pycache__/
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+.venv/
+env/
+ENV/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Runtime data
+data/
+*.db
+*.sqlite*
+*.db-journal
+
+# Env files
+.env
+.env.local
+.env.*.local
+
+# Docker
+.dockerignore
+
+# Node
+node_modules/
+npm-debug.log*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+
+# Testing
+.coverage
+htmlcov/
+.coverage.*
+
+# Build
+dist/
+build/
+
+# Prototype files
+*.html
+prototype/
+app/prototype/
